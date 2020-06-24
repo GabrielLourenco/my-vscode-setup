@@ -1,0 +1,44 @@
+{
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.colorTheme": "Horizon Bold",
+
+	"editor.fontFamily": "Fira Code",
+	"editor.fontLigatures": true,
+	"editor.formatOnSave": true,
+	"editor.rulers": [80, 120],
+	"editor.tabSize": 2,
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"editor.renameOnType": true,
+	"editor.smoothScrolling": true,
+
+	"prettier.useTabs": true,
+	"prettier.trailingComma": "all",
+	"prettier.singleQuote": true,
+	"prettier.tabWidth": 2,
+
+	"emmet.syntaxProfiles": {
+		"javascript": "jsx"
+	},
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+
+	"html.autoClosingTags": true,
+
+	"git.confirmSync": false,
+	"git.autofetch": true,
+
+	"window.menuBarVisibility": "toggle",
+	"window.titleBarStyle": "custom",
+
+	"explorer.confirmDelete": false,
+	"explorer.compactFolders": false,
+
+	"breadcrumbs.enabled": false,
+	"liveServer.settings.donotShowInfoMsg": true,
+
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	}
+}

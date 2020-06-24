@@ -1,0 +1,8 @@
+- Color Highlight
+- EditorConfig for VS Code
+- ESLint
+- Horizon Theme
+- Live Server
+- Material Icon Theme
+- Prettier - Code formatter
+- Python
